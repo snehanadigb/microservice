@@ -1,4 +1,4 @@
-//ServiceRegistry:  Kaushik
+
 const express= require("express");
 const cors= require("cors");
 const consl = require("consl")
